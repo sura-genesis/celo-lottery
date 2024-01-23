@@ -148,7 +148,9 @@ function random() private view returns (uint256) {
  
 ### Section 3: Complete Code
 ```solidity
-// SPDX-License-Identifier: MIT
+// 
+
+SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
 contract Lottery {
